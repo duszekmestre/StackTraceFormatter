@@ -2,8 +2,21 @@
     "name": "stacktraceformatter",
     "displayName": "StackTraceFormatter",
     "description": "Formatter for .NET Exception StackTrace",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "duszekmestre",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/duszekmestre/StackTraceFormatter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/duszekmestre/StackTraceFormatter/issues"
+    },
+    "author": {
+        "name": "duszekmestre",
+        "url": "https://github.com/duszekmestre",
+        "email": "duszekmestre@hotmail.com"
+    },
+    
     "engines": {
         "vscode": "^1.1.0"
     },
